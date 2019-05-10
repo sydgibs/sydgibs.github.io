@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: "Lucida Console", Monaco, monospace;
+  background: #f2f2f2;
+  color: #3d204f;
+}
+
+img {
+    max-width: 60%;
+    max-height: 60%;
+    border-radius: 50%;
+}
+
+h {
+    font-size: 1.7em;
+    align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.col {
+  flex: 1;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: space-evenly;
+    padding-top: 64px;
+    padding-bottom: 16px;
+}
+
+.left {
+    flex: 1 1 60%;
+    align-self: center;
+    text-align: center;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.right {
+    flex: 1 0 40%;
+    align-self: center;
+    text-align: left;
+}
+
+.contact-info {
+    font-size: 1.3em;
+}
+
+/* Handles formatting for compressed screen sizes/mobile devices. */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
