@@ -1,8 +1,10 @@
 body {
   margin: 0;
   font-family: "Lucida Console", Monaco, monospace;
-  background: #f2f2f2;
-  color: #3d204f;
+  background: #ffffff;
+  color: #424147;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 img {
@@ -12,9 +14,13 @@ img {
 }
 
 h {
-    font-size: 1.7em;
+    font-size: 1.6em;
     align: center;
 }
+
+a {
+    color: #c9005a;
+  }
 
 .container {
   display: flex;
@@ -23,6 +29,7 @@ h {
   align-items: center;
   padding-left: 16px;
   padding-right: 16px;
+  margin-bottom: 50px;
 }
 
 .col {
@@ -40,13 +47,14 @@ h {
 }
 
 .left {
-    flex: 1 1 60%;
+    flex: 0 0 55%;
     align-self: center;
     text-align: center;
+    padding-right: 10px;
 }
 
 .right {
-    flex: 1 0 40%;
+    flex: 1 0 45%;
     align-self: flex-start;
     text-align: left;
 }
@@ -60,10 +68,13 @@ h {
     float: right;
     display: block;
 
+    body {
+	margin-bottom: 20px;
+    }
+	
     .col {
 	padding-left: 0px;
 	padding-right: 0px;
-    padding-bottom: 20px;
     }
   }
 }
