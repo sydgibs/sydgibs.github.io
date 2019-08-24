@@ -70,6 +70,8 @@ a {
 
     body {
 	margin-bottom: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
     }
 	
     .col {
