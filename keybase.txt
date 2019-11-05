@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sydgibs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sydgibs.com
+  * I am sydgibs (https://keybase.io/sydgibs) on keybase.
+  * I have a public key ASCICN-SjbH60pCdAiVl_7u5xzVFdwSkpG0bCzO3aG09ZAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208808df928db1fad2909d022565ffbbb9c735457704a4a46d1b0b33b7686d3d640a",
+      "host": "keybase.io",
+      "kid": "01208808df928db1fad2909d022565ffbbb9c735457704a4a46d1b0b33b7686d3d640a",
+      "uid": "83de892f3b932a4d497bd0d2395c4319",
+      "username": "sydgibs"
+    },
+    "merkle_root": {
+      "ctime": 1572974751,
+      "hash": "137e977108b05f6166df2bba4a3730564502869c6bf907e026516233cd0f54e56ad8dd91d461e3810fc37488f6025c69c212f0b77314ef1b8fdff6e7fde411fa",
+      "hash_meta": "e62b748d4912a7c4c5a7c11923dca8569c5aaaeb9a99cf7649064c099d841087",
+      "seqno": 8778135
+    },
+    "service": {
+      "entropy": "ekiGEBvpFdVfGN66Kv6nnsCF",
+      "hostname": "sydgibs.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1572974756,
+  "expire_in": 504576000,
+  "prev": "a48f09ba89ea54fdd2623b659f673f4caa138b4ad4836268740275688b696fbf",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiAjfko2x+tKQnQIlZf+7ucc1RXcEpKRtGwszt2htPWQKp3BheWxvYWTESpcCCMQgpI8JuonqVP3SYjtln2c/TKoTi0rUg2JodAJ1aItpb7/EIPP08UIu8QgDH3vu9pn24/orHijwGY2dsXSVyLeBDNtIAgHCo3NpZ8RAq9yMEG02/mhQQg2FzxjfDwbXaxhm39VOe9UdEjxkVJYQtEAGbCwa+BKhmdPqqtDiPGb5QHBWIij3bIWhzwwQAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL7oCSPlW9HkqzZ2dSmjLWWjYmfm83cP0g35UEEA6iJKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sydgibs
+
+==================================================================
