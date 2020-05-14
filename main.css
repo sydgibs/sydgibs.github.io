@@ -56,8 +56,24 @@ a {
     padding-right: 20px;
 }
 
-.contact-info {
+.page-title {
     font-size: 1.3em;
+    align: center;
+}
+
+.cv-header {
+    font-size: 1.4em;
+    padding-bottom: 1em;
+}
+
+.paper {
+    font-size: 1.1em;
+    align: left;
+}
+
+.paper-desc {
+    font-size: 0.8em;
+    padding-top: 8px;
 }
 
 /* Handles formatting for compressed screen sizes/mobile devices. */
