@@ -5,6 +5,7 @@ body {
   max-width: 800px;
   margin: 0 auto !important;
   float: none !important;
+  padding-bottom: 64px;
 }
 
 img {
@@ -81,10 +82,6 @@ a {
     float: right;
     display: block;
 
-    body {
-	margin-bottom: 64px;
-    }
-	
     .col {
 	padding-left: 0px;
 	padding-right: 0px;
