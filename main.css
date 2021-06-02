@@ -1,7 +1,7 @@
 body {
   font-family: "Lucida Console", Monaco, monospace;
-  background: #ffffff;
-  color: #424147;
+  background: #313036;
+  color: #eeeeee;
   max-width: 800px;
   margin: 0 auto !important;
   float: none !important;
@@ -28,7 +28,7 @@ h {
 }
 
 a {
-    color: darkblue; /* #c9005a; */
+    color: gold; /* #c9005a; */
   }
 
 .container {
