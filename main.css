@@ -1,6 +1,6 @@
 body {
   font-family: "Lucida Console", Monaco, monospace;
-  background: #313036;
+  background: #353535;
   color: #eeeeee;
   max-width: 800px;
   margin: 0 auto !important;
@@ -56,11 +56,12 @@ a {
 .left {
     flex: 0 1 auto;
     text-align: center;
-    padding-right: 1em;
+    padding-right: 2em;
 }
 
 .right {
     flex: 1 1 auto;
+    text-align: center;
 }
 
 .page-title {
