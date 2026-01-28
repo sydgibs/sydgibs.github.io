@@ -91,9 +91,6 @@ a {
 
 /* Handles formatting for compressed screen sizes/mobile devices. */
 @media screen and (max-width: 700px) {
-    float: right;
-    display: block;
-
     .col {
 	padding-left: 0px;
 	padding-right: 0px;
