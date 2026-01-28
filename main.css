@@ -29,7 +29,7 @@ h {
 }
 
 a {
-    color: #04640C; /* #c9005a; */
+    color: #023eb5; 
   }
 
 .container {
@@ -74,7 +74,7 @@ a {
 }
 
 .paper {
-    font-size: 1.1em;
+    font-size: 1em;
     align: left;
 }
 
@@ -99,4 +99,3 @@ a {
 	padding-right: 0px;
     }
   }
-}
